@@ -1,1 +1,0 @@
-destination address for seed phrase is : 0xcc8f44eb9bf8581aa3a72f8872703e0492c81323
