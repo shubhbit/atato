@@ -1,6 +1,10 @@
 # atato
 
 # re-implemented task#2 and task#5 using selenium.
+- install dependencies, 
+  > python3 -m pip install -r requirements.txt
+- after dependencies are installed, geckodriver needs to be put in path for firefox to open
+  >e.g. on mac it can be installed with command: brew install geckodriver
 - to run task#2 using selenium run below script in the current folder:
   > python3 task2_using_selenium.py
 - to run task#5 using selenium run below script in the current folder:
