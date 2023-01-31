@@ -1,5 +1,11 @@
 # atato
 
+# re-implemented task#2 and task#5 using selenium.
+- to run task#2 using selenium run below script in the current folder:
+  > python3 task2_using_selenium.py
+- to run task#5 using selenium run below script in the current folder:
+  > python3 task5_using_selenium.py
+
 # Task-1
 
 - to identify the wallet address with given seed phrase, we could use any of the wallets such as "myetherWallet" or "metamask"
